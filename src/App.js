@@ -27,7 +27,7 @@ function App() {
         </li>
         <li>
           <a href="https://github.com/tieje/Portfolio">
-            Github for this website
+            Github for the upcoming website.
           </a>
         </li>
       </div >
