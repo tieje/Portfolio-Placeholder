@@ -34,5 +34,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tieje/Portfolio-Placeholder.git"
+  },
+  "keywords": [
+    "placeholder"
+  ],
+  "author": "Thomas James Libiano Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tieje/Portfolio-Placeholder/issues"
+  },
+  "homepage": "https://github.com/tieje/Portfolio-Placeholder#readme"
 }
